@@ -24,5 +24,5 @@ function doWhileLoop(array){
   } while incrementVariable() {
     i = i + 1;
 }
-return array 
+return array
 }
