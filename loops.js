@@ -20,8 +20,7 @@ function whileLoop(n) {
 var i = 0;
 function doWhileLoop(array){
   do {
-    remove[array.length] > 0 && incrementVariable();
-  } while (i = i + 1;) {
-}
+    array.shift();
+  } while (array.length > 0);   
 return array
 }
